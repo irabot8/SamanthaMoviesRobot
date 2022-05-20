@@ -1,27 +1,22 @@
 class script(object):
     START_TXT = """Hello {} 👨‍💻,
-My Name is <a href='https://t.me/SamanthaSearchBot'>Samantha Movies Bot</a>
 I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Telegram Groups.
-Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
-Made With ❤ BY @TeleRoidGroup"""
+Just Add Me To Your Group And Enjoy Of All Available Movies On TG."""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
     ABOUT_TXT = """☞ My Name: Sam Movies
-☞ Developer: @TheTeleRoid
+☞ Developer: 
 ☞ Library: Pyrogram
 ☞ Language: Python 3
 ☞ DataBase: Mongo DB
 ☞ Bot Server: Heroku
 ☞ Build Status: v1.0.1 [Beta]
-☞ Updates:<a href='https://t.me/TeleRoidGroup'>@𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍𝙶𝚛𝚘𝚞𝚙</𝚊>
-☞ Support: <a href='https://t.me/TeleRoid14'> @𝚃𝚎𝚕𝚎𝚁𝚘𝚒𝚍14</𝚊>
-☞ BotsList" : <a href='https://t.me/TheTeleRoid'> @𝙿𝙷𝙻𝚒𝚜𝚝𝙱𝚘𝚝</𝚊>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/PredatorHackerzZ/SamanthaMoviesBot
+- keerthy Suresh is a not open source project. 
+- Source - 😞😞
 
 <b>DEVS:</b>
-- <a href=https://t.me/TheTeleRoid>Team TeleRoid</a>"""
+- <a href=https://t.me/Akshay_Chand>Akshay Chand</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
